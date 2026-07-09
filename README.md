@@ -10,22 +10,6 @@ toggle in the nav that switches text direction and remembers your choice.
 - `privacy.html` — Privacy Policy
 - `support.html` — Support / FAQ
 
-## Deploy to Vercel via GitHub
-
-1. Create a new GitHub repo and push this folder to it:
-   ```
-   git init
-   git add .
-   git commit -m "Luna's World website"
-   git remote add origin <your-new-repo-url>
-   git push -u origin main
-   ```
-2. In Vercel: **Add New Project** → import that GitHub repo. No framework/build
-   command needed — Vercel serves the static files as-is.
-3. In the Vercel project's **Settings → Domains**, add a subdomain (e.g.
-   `lunasworld.lsquared.sa`, matching the `liyoplanet.lsquared.sa` pattern)
-   and point your DNS for that subdomain at Vercel as instructed on that screen.
-4. `vercel.json` enables clean URLs (`/terms` instead of `/terms.html`).
 
 ## Content notes
 
