@@ -196,6 +196,23 @@ section { padding: 4.2rem 0; }
 .feature-grid .card p { font-size: 14.5px; color: var(--ink-soft); }
 @media (max-width: 620px) { .feature-grid { grid-template-columns: 1fr; } }
 
+/* ---------- what's new ---------- */
+.soon-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  font-family: var(--font-display);
+  font-size: 12.5px;
+  font-weight: 700;
+  padding: 0.5em 1.1em;
+  border-radius: 100px;
+  background: var(--pink);
+  color: #fff;
+  margin-top: 0.9rem;
+}
+.whats-new .card { position: relative; }
+.whats-new .card .emoji { font-size: 1.6rem; flex: none; }
+
 /* ---------- steps ---------- */
 .steps { margin-top: 2.2rem; display: flex; flex-direction: column; gap: 1rem; }
 .step {
@@ -277,6 +294,7 @@ footer .copyright { font-size: 12.5px; color: #8b9580; }
   </a>
   <div class="nav-links">
     <a href="index.html#features"><span class="en">Features</span><span class="ar">المزايا</span></a>
+    <a href="index.html#whats-new"><span class="en">What's new</span><span class="ar">الجديد</span></a>
     <a href="support.html"><span class="en">Support</span><span class="ar">الدعم</span></a>
     <a href="privacy.html"><span class="en">Privacy</span><span class="ar">الخصوصية</span></a>
     <div class="lang-toggle">
@@ -354,6 +372,81 @@ footer .copyright { font-size: 12.5px; color: #8b9580; }
         <p><span class="en">Rate clinics and leave comments to help other cat owners decide.</span><span class="ar">قيّم العيادات واترك تعليقات تساعد أصحاب القطط الآخرين على اتخاذ القرار.</span></p>
       </div>
     </div>
+    </div>
+  </div>
+</section>
+
+<section id="whats-new" class="whats-new">
+  <div class="wrap">
+    <p class="eyebrow"><span class="en">What's new</span><span class="ar">الجديد</span></p>
+    <h2 class="section-title"><span class="en">More reasons to open the app.</span><span class="ar">المزيد من الأسباب لفتح التطبيق.</span></h2>
+    <div style="text-align:center;"><span class="soon-badge"><span class="en">Coming soon to the App Store</span><span class="ar">قريبًا على App Store</span></span></div>
+    <div class="feature-grid">
+
+    <div class="card">
+      <span class="emoji">🔔</span>
+      <div>
+        <h3><span class="en">Push notifications</span><span class="ar">إشعارات فورية</span></h3>
+        <p><span class="en">New follower, comment, paw, or reply — plus missing-cat matches reported nearby.</span><span class="ar">إشعار عند متابع جديد، تعليق، "باو"، أو رد — بالإضافة إلى تنبيهك عند الإبلاغ عن قطة تشبه قطتك المفقودة بالقرب منك.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">⭐</span>
+      <div>
+        <h3><span class="en">Editable reviews</span><span class="ar">تعديل التقييمات</span></h3>
+        <p><span class="en">Update your existing review instead of only delete-and-repost — capped at one review per clinic.</span><span class="ar">عدّل تقييمك الحالي بدلاً من حذفه وإعادة نشره، مع تقييم واحد فقط لكل عيادة.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">🔍</span>
+      <div>
+        <h3><span class="en">Search & filtering</span><span class="ar">البحث والتصفية</span></h3>
+        <p><span class="en">Search posts and listings by breed or free text, not just by city.</span><span class="ar">ابحث في المنشورات والإعلانات بالفصيلة أو بكلمات حرة، وليس فقط حسب المدينة.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">🎉</span>
+      <div>
+        <h3><span class="en">"Reunited" / "Adopted" status</span><span class="ar">حالة "تم اللمّ" / "تم التبني"</span></h3>
+        <p><span class="en">Mark a case resolved instead of only deleting it, so there's a record of happy endings.</span><span class="ar">علّم الحالة بأنها انتهت بدلاً من حذفها فقط، ليبقى سجل بكل نهاية سعيدة.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">💌</span>
+      <div>
+        <h3><span class="en">In-app messaging</span><span class="ar">مراسلة داخل التطبيق</span></h3>
+        <p><span class="en">Message adopters and listers directly instead of exposing a raw phone number.</span><span class="ar">راسل الطرف الآخر مباشرة من داخل التطبيق بدلاً من مشاركة رقم الهاتف.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">🚫</span>
+      <div>
+        <h3><span class="en">Block & report</span><span class="ar">حظر وإبلاغ</span></h3>
+        <p><span class="en">Basic content moderation tools, since this is an open social feed.</span><span class="ar">أدوات أساسية لإدارة المحتوى، لأن المجتمع هنا مفتوح للجميع.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">🔖</span>
+      <div>
+        <h3><span class="en">Bookmarks</span><span class="ar">المحفوظات</span></h3>
+        <p><span class="en">Save posts, and browse the posts you've liked.</span><span class="ar">احفظ المنشورات، وتصفّح المنشورات التي أعجبتك.</span></p>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="emoji">⏬</span>
+      <div>
+        <h3><span class="en">Load more</span><span class="ar">تحميل المزيد</span></h3>
+        <p><span class="en">Feed and listings now load more as you scroll, instead of stopping at a flat limit.</span><span class="ar">تحميل المزيد من المنشورات والإعلانات أثناء التمرير، بدلاً من التوقف عند حد ثابت.</span></p>
+      </div>
+    </div>
+
     </div>
   </div>
 </section>
