@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lunasworld.lsquared.sa/sitemap.xml
