@@ -1,10 +1,10 @@
 # Privacy Policy
 
-*Last updated 1 November 2026*
+*Last updated 11 November 2026*
 
 ## 1. Who we are
 
-Luna’s World (“the App”) is built and run by **L Squared Est.** (“LSquared,” “we,” “us”), based in the Kingdom of Saudi Arabia. We are the party that decides how your personal data is used in the App and on **lunasworld.lsquared.sa** (“the Website”). This policy explains what we collect, why, who can see it, and the choices you have.
+Luna’s World (“the App”) is built and run by **L Squared Est.** (“[LSquared](https://lsquared.sa),” “we,” “us”), based in the Kingdom of Saudi Arabia. We are the party that decides how your personal data is used in the App and on **lunasworld.lsquared.sa** (“the Website”). This policy explains what we collect, why, who can see it, and the choices you have.
 
 ## 2. The short version
 
@@ -84,6 +84,7 @@ We use a small number of service providers who process data for us under their o
 
 - **Google (Firebase and Google Cloud):** sign-in, our database, photo and video storage, server functions, push delivery, analytics, crash and performance reports, and remote on/off switches for features.
 - **Apple:** Sign in with Apple, push notifications (APNs), the App Store, and on-device features like translation.
+- **Vercel:** hosts this website and counts page views on it (see section 14), without cookies.
 - **Google Sign-In:** if you choose to sign in with Google.
 
 We may also disclose information if the law requires it, to protect people’s safety, or to protect our rights, and in the event of a sale or restructuring of the business (we would tell you first and this policy would continue to apply). When you tap a phone number or WhatsApp link in a listing, you leave the App and that app’s own policy applies.
@@ -130,7 +131,9 @@ Luna’s World is not for children under 13, and we do not knowingly collect the
 
 ## 14. This website
 
-The Website uses **no cookies, no analytics and no advertising or third-party trackers**, and it loads no outside scripts or fonts. Your browser stores only your language and light/dark choice on your own device. If you email us, we use your message only to reply to you.
+The Website uses **no cookies and no advertising or third-party trackers**, and it loads no outside fonts. To learn how many people visit and which pages they read, it uses Vercel Web Analytics, a privacy-friendly page counter served from our own domain: it records the page visited, the referring site, and the visitor’s country, browser and device type, stores nothing on your device, and builds no profile that could identify you or follow you to other sites. Your browser stores only your language and light/dark choice on your own device. If you email us, we use your message only to reply to you.
+
+**Partner with us form.** If you use the “Partner with us” form ([partners page](partners.html)), we collect what you type: your business and contact names, email address, optional phone, city and website link, what you offer, your message, the language of the page, and the time you sent it. It is stored on Google Cloud (Firebase) servers in the United States, is visible only to our admin team, and is used only to review your enquiry and contact you about it. We keep it for as long as needed for that purpose, and you can ask us to delete it at any time by emailing [support@lsquared.sa](mailto:support@lsquared.sa). We do not sell it or share it with anyone else.
 
 ## 15. Changes to this policy
 

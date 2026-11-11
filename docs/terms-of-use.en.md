@@ -4,7 +4,7 @@
 
 ## 1. Agreement to these Terms
 
-These Terms of Use (“Terms”) govern your access to and use of Luna’s World (the “App”) and the website lunasworld.lsquared.sa, which are designed, developed and operated by **L Squared Est.** (“LSquared,” “we,” “us”). By creating an account or using the App, you agree to these Terms and to our [Privacy Policy](privacy.html). If you do not agree, please do not use the App.
+These Terms of Use (“Terms”) govern your access to and use of Luna’s World (the “App”) and the website lunasworld.lsquared.sa, which are designed, developed and operated by **L Squared Est.** (“[LSquared](https://lsquared.sa),” “we,” “us”). By creating an account or using the App, you agree to these Terms and to our [Privacy Policy](privacy.html). If you do not agree, please do not use the App.
 
 ## 2. What Luna’s World is
 
@@ -23,7 +23,7 @@ You must be at least 13 years old to create an account. If you are under 18 (or 
 
 ## 5. Your content
 
-You keep ownership of the photos, videos, posts, comments, listings, messages and other content you add (“User Content”). By adding it, you give LSquared a non-exclusive, worldwide, royalty-free licence to store, process, copy, resize and display it **only as needed to run and improve the App**, for example showing your post to other users, creating thumbnails, and delivering your messages. This licence ends when you delete the content or your account, except for copies in backups (which expire as described in the Privacy Policy) and content that others have already shared or that is part of a conversation with other people.
+You keep ownership of the photos, videos, posts, comments, listings, messages and other content you add (“User Content”). By adding it, you give [LSquared](https://lsquared.sa) a non-exclusive, worldwide, royalty-free licence to store, process, copy, resize and display it **only as needed to run and improve the App**, for example showing your post to other users, creating thumbnails, and delivering your messages. This licence ends when you delete the content or your account, except for copies in backups (which expire as described in the Privacy Policy) and content that others have already shared or that is part of a conversation with other people.
 
 You promise that you own your User Content or have the right to share it, and that it does not break the law or anyone’s rights. Do not upload photos or videos of other people without their permission.
 
@@ -44,7 +44,7 @@ You can report content or people and block users from the ••• menu. We rev
 
 ## 8. Adoption, mating and missing-cat listings
 
-You can post listings with photos, details, your city and a contact phone number. You are responsible for what you post and for arranging any adoption, mating, handover or reunion safely and directly with the other person. **LSquared is not a party to these arrangements**, does not check listings or the people behind them, and is not responsible for their outcome.
+You can post listings with photos, details, your city and a contact phone number. You are responsible for what you post and for arranging any adoption, mating, handover or reunion safely and directly with the other person. **[LSquared](https://lsquared.sa) is not a party to these arrangements**, does not check listings or the people behind them, and is not responsible for their outcome.
 
 Please be careful:
 
@@ -78,15 +78,15 @@ The App uses Google’s Firebase and Google Cloud, Apple’s services (including
 
 ## 13. Intellectual property
 
-The Luna’s World name, logo, characters, design, text and software belong to LSquared or its licensors and are protected by law. We give you a personal, non-exclusive, non-transferable, revocable licence to use the App on your own Apple devices for personal, non-commercial purposes. Nothing in these Terms transfers any of our rights to you. If you believe content in the App infringes your rights, email us with the details and we will look into it.
+The Luna’s World name, logo, characters, design, text and software belong to [LSquared](https://lsquared.sa) or its licensors and are protected by law. We give you a personal, non-exclusive, non-transferable, revocable licence to use the App on your own Apple devices for personal, non-commercial purposes. Nothing in these Terms transfers any of our rights to you. If you believe content in the App infringes your rights, email us with the details and we will look into it.
 
 ## 14. Disclaimers and limits on liability
 
 The App is provided “as is” and “as available.” We work hard to keep it running well, but we do not promise it will always be available, error-free or free of harmful content, or that information users post is accurate. We may change, pause or remove features at any time (for example, a feature may be switched off for maintenance).
 
-To the fullest extent permitted by law, LSquared is not liable for indirect, incidental or consequential losses, for disputes or harm arising from dealings between users (including adoption, mating, handover or meetings), for decisions you make about your cat’s health or care, or for loss of data caused by things outside our reasonable control. Our total liability to you for any claim about the App is limited to the amount you paid us for the App in the previous 12 months (which is currently nothing, as the App is free). Nothing in these Terms limits liability that cannot be limited by law, or your mandatory consumer rights.
+To the fullest extent permitted by law, [LSquared](https://lsquared.sa) is not liable for indirect, incidental or consequential losses, for disputes or harm arising from dealings between users (including adoption, mating, handover or meetings), for decisions you make about your cat’s health or care, or for loss of data caused by things outside our reasonable control. Our total liability to you for any claim about the App is limited to the amount you paid us for the App in the previous 12 months (which is currently nothing, as the App is free). Nothing in these Terms limits liability that cannot be limited by law, or your mandatory consumer rights.
 
-You agree to compensate LSquared for claims by third parties arising from your User Content or your breach of these Terms, to the extent the law allows.
+You agree to compensate [LSquared](https://lsquared.sa) for claims by third parties arising from your User Content or your breach of these Terms, to the extent the law allows.
 
 ## 15. Ending your use, and deleting your account
 
