@@ -20,7 +20,7 @@ Luna’s World (“the App”) is built and run by **L Squared Est.** (“[LSqua
 
 - **Account and profile:** your email address, a username, your name, an optional bio, and optional profile and cover photos. If you sign in with Apple or Google, we receive the name and email they share with us (Apple may give us a private relay address instead of your real one). Your password is handled by Google’s Firebase Authentication; we never see it or store it in readable form.
 - **Posts and community content:** posts, questions, blog posts, comments, and the photos and short videos (up to two minutes) you attach, from your camera or photo library.
-- **Listings:** adoption, mating and missing-cat listings, with photos, the cat’s details, your city, and the **contact phone number** you type into the form.
+- **Listings:** adoption and missing-cat listings, with photos, the cat’s details, your city, and the **contact phone number** you type into the form.
 - **Your cats:** a profile for each cat (name, breed, sex, age or birth date, photos) and, in the Health tab, its **health records**: weight, vaccines and preventive care, medicines and dose schedules, vet visits, symptoms and photos, notes, attached documents, an optional microchip number, and the “what the vet needs to know” card. A cat’s basic card can appear on your public profile; the health records never do.
 - **Competitions:** your entry (photo or video, caption, your cat’s name) and the votes you cast.
 - **Messages:** the messages, shared posts and photos you send in one-to-one and group chats.

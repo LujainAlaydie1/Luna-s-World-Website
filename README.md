@@ -1,7 +1,10 @@
 # Luna's World website
 
-Four self-contained, bilingual (Arabic/English) static pages — every font and
-image is inlined, so there are no build steps and no external requests.
+Bilingual (Arabic/English) static pages sharing one stylesheet and one script —
+fonts and images live in `assets/`, with no external requests and no bundler.
+The look follows lsquared.sa (aurora background, glass nav, scroll-driven phone
+story, tilt cards) in Luna's forest/gold/rose palette, dark by default with a
+light mode.
 Arabic is the default language (matching the app itself), with an EN/عربي
 toggle in the nav that switches text direction and remembers your choice.
 
@@ -9,6 +12,10 @@ toggle in the nav that switches text direction and remembers your choice.
 - `terms.html` — Terms of Use
 - `privacy.html` — Privacy Policy
 - `support.html` — Support / FAQ
+- `partners.html` — Partner enquiry form
+- `assets/site.css`, `assets/site.js` — all styling and interactions
+- `tools/build_chrome.py` — re-stamps the shared nav, drawer and footer into every page
+  (`python3 tools/build_chrome.py`); edit chrome there, not per page
 
 
 ## Content notes

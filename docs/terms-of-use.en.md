@@ -8,7 +8,7 @@ These Terms of Use (“Terms”) govern your access to and use of Luna’s World
 
 ## 2. What Luna’s World is
 
-Luna’s World is a community app for cat lovers. It lets you share posts and photos, chat, list cats for adoption or mating, report and search for missing cats, enter cat competitions, keep your cats’ profiles and health records, set care reminders, and read safety guides. It is a tool and a community, **not** a veterinary clinic, a pet shop or an adoption agency.
+Luna’s World is a community app for cat lovers. It lets you share posts and photos, chat, list cats for adoption, report and search for missing cats, enter cat competitions, keep your cats’ profiles and health records, set care reminders, and read safety guides. It is a tool and a community, **not** a veterinary clinic, a pet shop or an adoption agency.
 
 ## 3. Eligibility
 
@@ -42,9 +42,9 @@ Be kind and be honest. You agree **not** to:
 
 You can report content or people and block users from the ••• menu. We review reports and may remove content, limit features, warn, suspend or permanently close accounts that break these Terms or put others at risk, with or without notice where the risk is serious. When we remove your content we tell you the reason. If you think we made a mistake, email [support@lsquared.sa](mailto:support@lsquared.sa) and we will take another look. We are not obliged to monitor all content, and we do not endorse what users post.
 
-## 8. Adoption, mating and missing-cat listings
+## 8. Adoption and missing-cat listings
 
-You can post listings with photos, details, your city and a contact phone number. You are responsible for what you post and for arranging any adoption, mating, handover or reunion safely and directly with the other person. **[LSquared](https://lsquared.sa) is not a party to these arrangements**, does not check listings or the people behind them, and is not responsible for their outcome.
+You can post listings with photos, details, your city and a contact phone number. You are responsible for what you post and for arranging any adoption, handover or reunion safely and directly with the other person. **[LSquared](https://lsquared.sa) is not a party to these arrangements**, does not check listings or the people behind them, and is not responsible for their outcome.
 
 Please be careful:
 
@@ -84,7 +84,7 @@ The Luna’s World name, logo, characters, design, text and software belong to [
 
 The App is provided “as is” and “as available.” We work hard to keep it running well, but we do not promise it will always be available, error-free or free of harmful content, or that information users post is accurate. We may change, pause or remove features at any time (for example, a feature may be switched off for maintenance).
 
-To the fullest extent permitted by law, [LSquared](https://lsquared.sa) is not liable for indirect, incidental or consequential losses, for disputes or harm arising from dealings between users (including adoption, mating, handover or meetings), for decisions you make about your cat’s health or care, or for loss of data caused by things outside our reasonable control. Our total liability to you for any claim about the App is limited to the amount you paid us for the App in the previous 12 months (which is currently nothing, as the App is free). Nothing in these Terms limits liability that cannot be limited by law, or your mandatory consumer rights.
+To the fullest extent permitted by law, [LSquared](https://lsquared.sa) is not liable for indirect, incidental or consequential losses, for disputes or harm arising from dealings between users (including adoption, handover or meetings), for decisions you make about your cat’s health or care, or for loss of data caused by things outside our reasonable control. Our total liability to you for any claim about the App is limited to the amount you paid us for the App in the previous 12 months (which is currently nothing, as the App is free). Nothing in these Terms limits liability that cannot be limited by law, or your mandatory consumer rights.
 
 You agree to compensate [LSquared](https://lsquared.sa) for claims by third parties arising from your User Content or your breach of these Terms, to the extent the law allows.
 
