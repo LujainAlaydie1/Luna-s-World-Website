@@ -19,7 +19,7 @@
     root.lang = lang;
     root.dir = lang === "ar" ? "rtl" : "ltr";
     $$(".lang-toggle button").forEach(function (b) { b.classList.toggle("active", b.dataset.lang === lang); });
-    if (persist !== false) { try { localStorage.setItem("lunasworld-lang", lang); } catch (e) {} }
+    if (persist !== false) { try { localStorage.setItem("lunasworld-lang-v2", lang); } catch (e) {} }
   }
   function setTheme(theme, persist) {
     root.setAttribute("data-theme", theme);

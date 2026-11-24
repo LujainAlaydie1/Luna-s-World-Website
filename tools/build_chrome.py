@@ -24,7 +24,7 @@ HEAD = """<!-- HEAD-ASSETS:START (managed by tools/build_chrome.py) -->
 <link rel="icon" type="image/png" href="assets/img/app-icon.png">
 <link rel="apple-touch-icon" href="assets/img/app-icon.png">
 <meta name="theme-color" content="#080b06">
-<script>(function(){var d=document.documentElement,l="ar",h="dark";d.classList.add("js");try{l=localStorage.getItem("lunasworld-lang")||"ar";h=localStorage.getItem("lunasworld-theme-v2")||"dark"}catch(e){}d.lang=l;d.dir=l==="ar"?"rtl":"ltr";d.setAttribute("data-theme",h)})();</script>
+<script>(function(){var d=document.documentElement,l="ar",h="dark";d.classList.add("js");try{l=localStorage.getItem("lunasworld-lang-v2")||"ar";h=localStorage.getItem("lunasworld-theme-v2")||"dark"}catch(e){}d.lang=l;d.dir=l==="ar"?"rtl":"ltr";d.setAttribute("data-theme",h)})();</script>
 <link rel="stylesheet" href="assets/site.css">
 <!-- HEAD-ASSETS:END -->"""
 

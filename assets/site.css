@@ -695,6 +695,9 @@ html[dir="rtl"] .foot-col a:hover { transform: translateX(-3px); }
 .lsquared-line a:hover { color: var(--ac); }
 .foot-big { font: 800 clamp(64px, 17vw, 270px)/.92 var(--display); letter-spacing: -.05em; text-align: center; margin: 40px 0 -.12em; background: linear-gradient(180deg, var(--g2) 0%, color-mix(in oklab, var(--g4) 60%, transparent) 55%, transparent 98%); -webkit-background-clip: text; background-clip: text; color: transparent; -webkit-text-fill-color: transparent; user-select: none; white-space: nowrap; transform: translateY(calc(var(--fy, 0) * 1px)); }
 html[lang="ar"] .foot-big { letter-spacing: 0; line-height: 1.1; }
+/* size the wordmark from the space it has, so it can never run off the screen (English is ~5.2em wide, Arabic ~3.5em) */
+.foot-big { font-size: clamp(34px, calc((100vw - 2 * var(--gut)) / 5.5), 250px); max-width: 100%; }
+html[lang="ar"] .foot-big { font-size: clamp(40px, calc((100vw - 2 * var(--gut)) / 3.7), 250px); }
 .copyright { text-align: center; font-size: 13.5px; color: var(--fg-2); position: relative; z-index: 2; margin-top: 22px; }
 .copyright a { color: var(--fg-2); }
 
